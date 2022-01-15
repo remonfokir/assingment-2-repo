@@ -1,0 +1,36 @@
+.d1img img {
+        height: 400px;
+        width: 400px;
+        margin-left: 40px;
+        margin-right: 60px;
+}
+.d1img img:hover {
+        height: 450px;
+        width: 450px;
+       transition:calc(2s);
+       transform: rotate(55deg);
+}
+.textp {
+        text-align: justify;
+        font-family: 'Poppins', sans-serif;       
+}
+.sdh1 {
+        font-size: 3em;
+        font-family: 'Poppins', sans-serif; 
+}
+.s1f {
+        display: flex;
+}
+.sbtn {
+        color: white;
+        background: orangered;
+        padding: 10px;
+        border-radius: 5px;
+        
+}
+a {
+        text-decoration: none;
+}
+.d1set {
+        margin: 40px;
+}
